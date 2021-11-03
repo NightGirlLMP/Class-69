@@ -1,0 +1,19 @@
+#about-me iframe
+{
+    width: 100%;
+}
+
+.main_div
+{
+    border:1px solid lightgray;
+}
+
+.main_div img
+{
+    width: 100%;
+}
+
+.main_div h5, p
+{
+    margin: 20px;
+}
